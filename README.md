@@ -8,3 +8,5 @@ The first attempt at recording a show where friends can have the conversations t
 kaplon.us/alytfeed
 
 https://www.facebook.com/AtLeastYoureTrying
+
+alyt.show@gmail.com
