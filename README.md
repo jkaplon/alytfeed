@@ -10,5 +10,3 @@ kaplon.us/alytfeed
 https://www.facebook.com/AtLeastYoureTrying
 
 alyt.show@gmail.com
-
-Hey, it's only the pilot season.
