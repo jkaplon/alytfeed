@@ -13,4 +13,4 @@ The pilot season of the first attempt at recording a show where friends can have
 - alyt.show@gmail.com
 
 
-Thanks to [archive.org](www.archive.org) for media hosting and bandwidth.
+Thanks to [archive.org](http://www.archive.org) for media hosting and bandwidth.
