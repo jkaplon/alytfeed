@@ -11,3 +11,5 @@ The pilot season of the first attempt at recording a show where friends can have
 ## Interact
 - https://www.facebook.com/AtLeastYoureTrying
 - alyt.show@gmail.com
+
+### Thanks to archive.org[www.archive.org] for media hosting and bandwidth.
