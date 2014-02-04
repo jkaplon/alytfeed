@@ -16,6 +16,21 @@
         <itunes:image href="http://kaplon.us/alyt.jpg" />
         <itunes:category text="Philosophy" />
         <item>
+            <title>At Least You're Trying, 33: The Lost Email Sessions</title>
+            <link>https://archive.org/details/AtLeastYoureTrying-P2e3-TheLostEmailSessions</link>
+            <guid>https://archive.org/details/AtLeastYoureTrying-P2e3-TheLostEmailSessions</guid>
+            <pubDate>Tue, 4 Feb 2014 01:37:00 GMT</pubDate>
+            <author>Jody and Matt</author>
+            <description>You guys, we are so sorry. Yeah, we kind of knew the email was broken when it went all quiet for a few weeks, but we didn't know there was all this great, supportive feedback waiting for us there. This week, we make it right... and do tons of follow-up, obviously.</description>
+            <enclosure url="https://archive.org/download/AtLeastYoureTrying-P2e3-TheLostEmailSessions/AtLeastYoureTrying-P2e3-TheLostEmailSessions.mp3" length="41673733" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>57:53</itunes:duration>
+            <itunes:subtitle>Accidental email archive.</itunes:subtitle>
+            <itunes:summary>You guys, we are so sorry. Yeah, we kind of knew the email was broken when it went all quiet for a few weeks, but we didn't know there was all this great, supportive feedback waiting for us there. This week, we make it right... and do tons of follow-up, obviously.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, p2e2: Cognitive Load</title>
             <link>https://archive.org/details/AtLeastYoureTrying-Pilot2-1-CognitiveLoad</link>
             <guid>https://archive.org/details/AtLeastYoureTrying-Pilot2-1-CognitiveLoad</guid>
