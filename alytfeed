@@ -16,6 +16,21 @@
         <itunes:image href="http://kaplon.us/alyt.jpg" />
         <itunes:category text="Philosophy" />
         <item>
+            <title>At Least You're Trying, 34: Books Are Hard</title>
+            <link>http://gtradio.net/alyt/34</link>
+            <guid>http://gtradio.net/alyt/34</guid>
+            <pubDate>Mon, 24 Feb 2014 00:37:00 GMT</pubDate>
+            <author>Jody and Matt</author>
+            <description>Stuff! You've got more than you need. This week Jody and Matt (and Matt's dad) tell you how to handle all that... stuff.</description>
+            <enclosure url="https://archive.org/download/AtLeastYoureTrying-34-booksAreHard/AtLeastYoureTrying-34-BooksAreHard.mp3" length="40559937" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>56:19</itunes:duration>
+            <itunes:subtitle>Go clean your room.</itunes:subtitle>
+            <itunes:summary>Stuff! You've got more than you need. This week Jody and Matt (and Matt's dad) tell you how to handle all that... stuff.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 33: The Lost Email Sessions</title>
             <link>https://archive.org/details/AtLeastYoureTrying-P2e3-TheLostEmailSessions</link>
             <guid>https://archive.org/details/AtLeastYoureTrying-P2e3-TheLostEmailSessions</guid>
