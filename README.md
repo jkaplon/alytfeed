@@ -13,6 +13,7 @@ The pilot season of the first attempt at recording a show where friends can have
 
 
 ## Interact
+- http://gtradio.net/alyt
 - https://www.facebook.com/AtLeastYoureTrying
 - alyt.show@gmail.com
 
