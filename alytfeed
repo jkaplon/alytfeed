@@ -2,12 +2,12 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
         <title>At Least You're Trying</title>
-        <link>http://kaplon.us/alyt</link>
+        <link>http://gtradio.net/alyt</link>
         <language>en-us</language>
         <copyright>http://creativecommons.org/licenses/by-sa/3.0/us</copyright>
-        <itunes:subtitle>The pilot series</itunes:subtitle>
+        <itunes:subtitle>The second pilot series</itunes:subtitle>
         <itunes:author>Jody and Matt</itunes:author>
-        <description>The first attempt at recording a show where friends can have the conversations that have gone missing from the rest of their lives.</description>
+        <description>Two friends found a way to have (and share) the conversations that had gone missing from the rest of their lives.</description>
         <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
         <itunes:owner>
             <itunes:name>Jody and Matt</itunes:name>
