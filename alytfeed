@@ -16,6 +16,21 @@
         <itunes:image href="http://kaplon.us/alyt.jpg" />
         <itunes:category text="Philosophy" />
         <item>
+            <title>At Least You're Trying, 37: Flambeed Truffle Slices</title>
+            <link>http://gtradio.net/alyt/37</link>
+            <guid>http://gtradio.net/alyt/37</guid>
+            <pubDate>Fri, 4 Apr 2014 17:53:00 GMT</pubDate>
+            <author>Jody and Matt</author>
+            <description>This week it's part 2 of the food show, with a few functional components, as promised! The boys try to figure out why cooking seems so hard.</description>
+            <enclosure url="https://archive.org/download/AtLeastYoureTrying-37-flambeedTruffleSlices/AtLeastYoureTrying-37-flambeedTruffleSlices.mp3" length="59240214" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>1:22:17</itunes:duration>
+            <itunes:subtitle>Would you like a box?</itunes:subtitle>
+            <itunes:summary>This week it's part 2 of the food show, with a few functional components, as promised! The boys try to figure out why cooking seems so hard.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 36: Hare Krishna; Don't Eat Swordfish</title>
             <link>http://gtradio.net/alyt/36</link>
             <guid>http://gtradio.net/alyt/36</guid>
