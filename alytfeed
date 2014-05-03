@@ -16,6 +16,21 @@
         <itunes:image href="http://kaplon.us/alyt.jpg" />
         <itunes:category text="Philosophy" />
         <item>
+            <title>At Least You're Trying, 38: I'll Write Down Everything</title>
+            <link>http://gtradio.net/alyt/38</link>
+            <guid>http://gtradio.net/alyt/38</guid>
+            <pubDate>Fri, 02 May 2014 22:23:00</pubDate>
+            <author>Jody and Matt</author>
+            <description>It's all follow-up, both real and fake, but they boys are glad to be recording again after an eventful hiatus.</description>
+            <enclosure url="https://archive.org/download/AtLeastYoureTrying-38-IllWriteDownEverything/AtLeastYoureTrying-38-IllWriteDownEverything.mp3" length="34947273" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>48:32</itunes:duration>
+            <itunes:subtitle>Negative results</itunes:subtitle>
+            <itunes:summary>It's all follow-up, both real and fake, but they boys are glad to be recording again after an eventful hiatus.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 37: Flambeed Truffle Slices</title>
             <link>http://gtradio.net/alyt/37</link>
             <guid>http://gtradio.net/alyt/37</guid>
