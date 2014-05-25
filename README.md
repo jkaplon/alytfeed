@@ -1,12 +1,11 @@
 # alytfeed
 ========
-At Least You're Trying podcast feed:
+This repository contains the RSS feed for the [At Least You're Trying](http://gtradio.net/alyt) podcast.
+If you would like to become a listener, please use the links below to subscribe.
+The purpose of this Github repository is to provide off-site backup of the feeds version history while using Github's webhook features to push feed updates to other necessary destinations.
 
-The pilot season of the first attempt at recording a show where friends can have the conversations that have gone missing from the rest of their lives.
 
-
-
-## Feeds
+## Official Feed Locations
 - RSS, www.kaplon.us/alytfeed
 - iTunes, https://itunes.apple.com/us/podcast/at-least-youre-trying/id702153446?mt=2&ign-mpt=uo%3D4
 
