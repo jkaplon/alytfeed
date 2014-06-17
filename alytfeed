@@ -16,6 +16,21 @@
         <itunes:image href="http://kaplon.us/alyt.jpg" />
         <itunes:category text="Philosophy" />
         <item>
+            <title>At Least You're Trying, 41: I've Just Made Up My Mind</title>
+            <link>http://gtradio.net/alyt/41</link>
+            <guid>http://gtradio.net/alyt/41</guid>
+            <pubDate>Wed, 16 Jun 2014 00:37:00</pubDate>
+            <author>Jody and Matt</author>
+            <description>It's a short show due to an impending Bonnaroo music festival, but Matt manages to maximize the time by making a big decision.</description>
+            <enclosure url="https://archive.org/download/AtLeastYoureTrying41IveJustMadeUpMyMind/AtLeastYoureTrying-41-IveJustMadeUpMyMind.mp3" length="29199360" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>40:33</itunes:duration>
+            <itunes:subtitle>I am the decider!</itunes:subtitle>
+            <itunes:summary>It's a short show due to an impending Bonnaroo music festival, but Matt manages to maximize the time by making a big decision.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 40: Neither of Us is One Size</title>
             <link>http://gtradio.net/alyt/40</link>
             <guid>http://gtradio.net/alyt/40</guid>
