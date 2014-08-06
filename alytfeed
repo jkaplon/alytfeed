@@ -16,6 +16,21 @@
         <itunes:image href="http://kaplon.us/alyt.jpg" />
         <itunes:category text="Philosophy" />
         <item>
+            <title>At Least You're Trying, 43: A Rubber Band and a Room Full of Teenagers</title>
+            <link>http://gtradio.net/alyt/43</link>
+            <guid>http://gtradio.net/alyt/43</guid>
+            <pubDate>Wed, 06 Aug 2014 18:03:00</pubDate>
+            <author>Jody and Matt</author>
+            <description>In a super-quick follow up to episode 42, the boys sit in a 95 degree room and try to talk about focus.  Also: rental cars, iPad games, career decisions, and rubber bands.</description>
+            <enclosure url="https://archive.org/download/AtLeastYoureTrying43ARubberBandAndARoomFullOfTeenagers/At%20Least%20You%27re%20Trying-%2043-%20A%20Rubber%20Band%20and%20a%20Room%20Full%20of%20Teenagers.mp3" length="38538112" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>53:31</itunes:duration>
+            <itunes:subtitle>Snappy.</itunes:subtitle>
+            <itunes:summary>In a super-quick follow up to episode 42, the boys sit in a 95 degree room and try to talk about focus.  Also: rental cars, iPad games, career decisions, and rubber bands.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 42: The Month in Retrospectives</title>
             <link>http://gtradio.net/alyt/42</link>
             <guid>http://gtradio.net/alyt/42</guid>
