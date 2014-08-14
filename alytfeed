@@ -16,6 +16,21 @@
         <itunes:image href="http://kaplon.us/alyt.jpg" />
         <itunes:category text="Philosophy" />
         <item>
+            <title>At Least You're Trying, 44: Caught Up in a Hurry</title>
+            <link>http://gtradio.net/alyt/44</link>
+            <guid>http://gtradio.net/alyt/44</guid>
+            <pubDate>Thu, 14 Aug 2014 12:40:00</pubDate>
+            <author>Jody and Matt</author>
+            <description>This one almost didn't happen. There were technical failure-tunities, but we struggled through.  Jody has impending twins, Matt has questions.</description>
+            <enclosure url="https://archive.org/download/AtLeastYoureTrying44CaughtUpInAHurry/At%20Least%20You%27re%20Trying-%2044-%20Caught%20Up%20in%20a%20Hurry.mp3" length="28832433" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>40:02</itunes:duration>
+            <itunes:subtitle>Double down.</itunes:subtitle>
+            <itunes:summary>This one almost didn't happen. There were technical failure-tunities, but we struggled through.  Jody has impending twins, Matt has questions.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 43: A Rubber Band and a Room Full of Teenagers</title>
             <link>http://gtradio.net/alyt/43</link>
             <guid>http://gtradio.net/alyt/43</guid>
