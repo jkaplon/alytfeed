@@ -16,6 +16,21 @@
         <itunes:image href="http://kaplon.us/alyt.jpg" />
         <itunes:category text="Philosophy" />
         <item>
+            <title>At Least You're Trying, 45: Command-Shift-3</title>
+            <link>http://gtradio.net/alyt/45</link>
+            <guid>http://gtradio.net/alyt/45</guid>
+            <pubDate>Thu 28 Aug 2017 22:00:00</pubDate>
+            <author>Jody and Matt</author>
+            <description>It was a distraction-driven show as the boys try to add a video component to their Skype production process (don't worry listeners, the show is still audio-only). Jody fields questions, Matt thinks about what's good for the country.</description>
+            <enclosure url="https://archive.org/download/AtLeastYoureTrying45CommandShift3/At%20Least%20You%27re%20Trying-45-Command%2BShift%2B3.mp3" length="42225407" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>58:38</itunes:duration>
+            <itunes:subtitle>Screenshot inception.</itunes:subtitle>
+            <itunes:summary>It was a distraction-driven show as the boys try to add a video component to their Skype production process (don't worry listeners, the show is still audio-only). Jody fields questions, Matt thinks about what's good for the country.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 44: Caught Up in a Hurry</title>
             <link>http://gtradio.net/alyt/44</link>
             <guid>http://gtradio.net/alyt/44</guid>
