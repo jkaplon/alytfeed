@@ -16,6 +16,21 @@
         <itunes:image href="http://kaplon.us/alyt.jpg" />
         <itunes:category text="Philosophy" />
         <item>
+            <title>At Least You're Trying, 46: Soixante-Quinze</title>
+            <link>http://gtradio.net/alyt/46</link>
+            <guid>http://gtradio.net/alyt/46</guid>
+            <pubDate>Tue 09 Sep 2014 02:29:00</pubDate>
+            <author>Jody and Matt</author>
+            <description>Jody brings back a topic: Focus.  Predictably, Matt is anything but focused, but has some functional components.  And several stiff drinks.</description>
+            <enclosure url="https://archive.org/download/AtLeastYoureTrying46SoixanteQuinze/At%20Least%20You%27re%20Trying-46-soixante-quinze.mp3" length="31077182" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>58:38</itunes:duration>
+            <itunes:subtitle>Heavy artillery</itunes:subtitle>
+            <itunes:summary>Jody brings back a topic: Focus.  Predictably, Matt is anything but focused, but has some functional components.  And several stiff drinks.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 45: Command-Shift-3</title>
             <link>http://gtradio.net/alyt/45</link>
             <guid>http://gtradio.net/alyt/45</guid>
