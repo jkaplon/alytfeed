@@ -1,7 +1,6 @@
 # alytfeed
 ========
 
-
 This repository contains the RSS feed for the [At Least You're Trying](http://gtradio.net/alyt) podcast.
 If you would like to become a listener, please use the links below to subscribe.
 The purpose of this Github repository is to provide off-site backup of the feed's version history while using Github's webhook features to push feed updates to other necessary destinations.
