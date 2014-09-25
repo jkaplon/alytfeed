@@ -16,6 +16,21 @@
         <itunes:image href="http://kaplon.us/alyt.jpg" />
         <itunes:category text="Philosophy" />
         <item>
+            <title>At Least You're Trying, 47: So it Goes</title>
+            <link>http://gtradio.net/alyt/47</link>
+            <guid>http://gtradio.net/alyt/47</guid>
+            <pubDate>Wed 24 Sep 2014</pubDate>
+            <author>Jody and Matt</author>
+            <description>Trigger warning: The ALYT family lost another pet this week, and the show gets a bit sad around the 39 minute mark.  Fair warning.  In other news, we go through lots of FB/FU this week, and Matt has his mind blown- because fireworks.</description>
+            <enclosure url="https://archive.org/download/AtLeastYoureTrying47SoItGoes/At%20Least%20You%27re%20Trying-47-So%20it%20Goes.mp3" length="34815927" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>48:21</itunes:duration>
+            <itunes:subtitle>How goes it?</itunes:subtitle>
+            <itunes:summary>Trigger warning: The ALYT family lost another pet this week, and the show gets a bit sad around the 39 minute mark.  Fair warning.  In other news, we go through lots of FB/FU this week, and Matt has his mind blown- because fireworks.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 46: Soixante-Quinze</title>
             <link>http://gtradio.net/alyt/46</link>
             <guid>http://gtradio.net/alyt/46</guid>
