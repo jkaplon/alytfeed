@@ -16,6 +16,21 @@
         <itunes:image href="http://kaplon.us/alyt.jpg" />
         <itunes:category text="Philosophy" />
         <item>
+            <title>At Least You're Trying, 48: Spam & Podcasts with Matt & Jody</title>
+            <link>http://gtradio.net/alyt/48</link>
+            <guid>http://gtradio.net/alyt/48</guid>
+            <pubDate>Mon, 20 Oct 2014</pubDate>
+            <author>Jody and Matt</author>
+            <description>Jody and Matt get caught up after another brief hiatus. Also, we hear from some listeners, bite some phones, and recomend some other shows.</description>
+            <enclosure url="https://archive.org/download/AtLeastYoureTrying48SpamandPodcasts/AtLeastYou%27reTrying-48-SpamandPodcasts.mp3" length="45379240" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>1:03:01</itunes:duration>
+            <itunes:subtitle>How goes it?</itunes:subtitle>
+            <itunes:summary>Jody and Matt get caught up after another brief hiatus. Also, we hear from some listeners, bite some phones, and recomend some other shows.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 47: So it Goes</title>
             <link>http://gtradio.net/alyt/47</link>
             <guid>http://gtradio.net/alyt/47</guid>
