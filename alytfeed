@@ -14,7 +14,9 @@
             <itunes:email>alyt.show@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:image href="http://kaplon.us/alyt.jpg" />
-        <itunes:category text="Philosophy" />
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Philosophy" />
+        </itunes:category>
         <item>
             <title>At Least You're Trying, 51: Think of All the Ways You Can Be Wrong</title>
             <link>http://gtradio.net/alyt/51</link>
