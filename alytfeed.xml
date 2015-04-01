@@ -22,7 +22,7 @@
             <title>At Least You're Trying, 52: It's Hard to Draw the Fish</title>
             <link>http://gtradio.net/alyt/52</link>
             <guid>http://gtradio.net/alyt/52</guid>
-            <pubDate>Tue, 31 Mar 2015 22:13:19</pubDate>
+            <pubDate>Tue, 31 Mar 2015 22:13:19 GMT</pubDate>
             <itunes:order>52</itunes:order>
             <author>Jody and Matt</author>
             <description>
@@ -107,7 +107,7 @@
                     </ul>
                 ]]>
             </description>
-            <enclosure url="https://archive.org/download/ALYT52/ALYT-52.mp3" length="46966010" type="audio/mpeg" />
+            <enclosure url="http://archive.org/download/ALYT52/ALYT-52.mp3" length="46966010" type="audio/mpeg" />
             <itunes:author>Jody and Matt</itunes:author>
             <itunes:duration>1:05:13</itunes:duration>
             <itunes:subtitle>Not-so-fishy?</itunes:subtitle>
@@ -129,7 +129,7 @@
             <itunes:subtitle>You could be, and are, wrong.</itunes:subtitle>
             <itunes:summary>It's a laid back, vacation episode this week. After a lovely call-in from LSB, esq., the boys talk work, cars, AI, and Basilisks.  No, really.</itunes:summary>
             <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
-            <itunes:image href="https://lh3.googleusercontent.com/-LKlysJgnP00/VJneoWHgUrI/AAAAAAAAAok/saXw7IG5PU0/w279-h496-no/14%2B-%2B1" />
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
         </item>
         <item>
             <title>At Least You're Trying, 50: Thoughtful Silences</title>
