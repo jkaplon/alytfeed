@@ -55,19 +55,26 @@ func TestAlytfeed(t *testing.T) {
 			t.Errorf("Bad podcaster/human pubDate value non-conformant w/RFC 2822: %q", item.PubDate)
 		}
 
-		// All enclosure links are HTTP (as opposed to HTTPS).
-		// TODO, fix this...item.Url coming back empty.
-		//var validUrl = regexp.MustCompile(`^http://*`)
-		//matchedHttp := validUrl.FindString(item.Url)
-		//fmt.Printf("%q\n", item.Url)
-		//if matchedHttp == "" {
-		//fmt.Printf("\t%d: %s\n", c, item.Url)
-		//t.Errorf("Bad Jody, use http instead of https: %q", item.Url)
-		//}
+		// All enclosure links are HTTP (as opposed to HTTPS), pointing to an MP3 file.
+                // MP3 format check is brittle if we ever do an OGG feed or video feed.
+                // Assume only one enclosure element per item-node and hard-code 0th element.
+		var validUrl = regexp.MustCompile(`^http://*`)
+		matchedHttp := validUrl.FindString(item.EnclosureList[0].Url)
+		if matchedHttp == "" {
+                    t.Errorf("Bad podcaster/human, enclosure URL's must use http instead of https: %q", item.EnclosureList[0].Url)
+		}
 
-		// TODO, add these also:
-		// Make sure all enclosure links are valid URL's
-		// All enclosure links are to MP3 files (brittle if we ever do an OGG feed or video feed).
+		// All enclosure links point to an MP3 file (MP3 format check is brittle if we ever do an OGG feed or video feed).
+                // Tried to combine this with HTTP check, but my regex skills were not up to task.
+                // Assume only one enclosure element per item-node and hard-code 0th element.
+		var validUrlMp3 = regexp.MustCompile(`mp3$`)
+		matchedMp3 := validUrlMp3.FindString(item.EnclosureList[0].Url)
+		if matchedMp3 == "" {
+                    t.Errorf("Bad podcaster/human, enclosure URL's must point to an MP3: %q", item.EnclosureList[0].Url)
+		}
+
+		// Make sure all enclosure links are valid URL's...I'm declaring this out of scope for now
+                // (if it starts with 'http://' and ends with '.mp3', call it good).
 	}
 
 }
