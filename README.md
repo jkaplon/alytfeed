@@ -7,7 +7,7 @@ I configured the github webook to notify the server hosting the official podcast
 A Sinatra service running on my VPS over at [Linode](https://www.linode.com/?r=30991a143a3c99716fbc7fdcf81355338c4d2b64) takes care of the subsequent cloning and file system housekeeping.
 This scheme also happens to provide a full version history and an offsite backup of this precious XML file.
 
-**But unit test on a podcast feed?**
+**But unit tests on a podcast feed?**
 
 Yes, this feed has some tests written in Go.
 This was my first experience writing Go code, and I chose it due to its simple testing story...`go test`.
