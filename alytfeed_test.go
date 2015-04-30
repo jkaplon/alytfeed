@@ -29,7 +29,7 @@ type Enclosure struct {
 }
 
 func TestAlytfeed(t *testing.T) {
-	// read in entire alytfeed.xml file...may need another package import.
+	// Read in entire alytfeed.xml file.
 	xmlFile, err := os.Open("alytfeed.xml")
 	if err != nil {
 		fmt.Println("Error opening file:", err)
@@ -38,15 +38,11 @@ func TestAlytfeed(t *testing.T) {
 	defer xmlFile.Close()
 
 	XMLdata, _ := ioutil.ReadAll(xmlFile)
-	//fmt.Printf(XMLdata)
 
 	var i RSS
 	xml.Unmarshal(XMLdata, &i)
-	//fmt.Printf("%#v", i)
 
 	for _, item := range i.Items.ItemList {
-		//fmt.Printf("\t%d: %s\n", c, item.Title)
-		//fmt.Printf("\t%d: %s\n", c, item.PubDate)
 
 		// Validate RFC 2822 pubdate values according to big, hairy regex.
 		var validPubDate = regexp.MustCompile(`^(?:(Sun|Mon|Tue|Wed|Thu|Fri|Sat),\s+)?(0[1-9]|[1-2]?[0-9]|3[01])\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(19[0-9]{2}|[2-9][0-9]{3})\s+(2[0-3]|[0-1][0-9]):([0-5][0-9])(?::(60|[0-5][0-9]))?\s+([-\+][0-9]{2}[0-5][0-9]|(?:UT|GMT|(?:E|C|M|P)(?:ST|DT)|[A-IK-Z]))(\s+|\(([^\(\)]+|\\\(|\\\))*\))*$`)
