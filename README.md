@@ -15,7 +15,7 @@ Since I update the feed by hand, I don't want to be able to make a typo in the p
 For now, the tests run on a local git commit hook. In the future, they will move to the server.
 
 If you would like to become a listener, please use the links below to subscribe.
-The purpose of this Github repository is to provide off-site backup of the feed's version history while using Github's webhook features to push feed updates to other necessary destinations.
+
 
 
 ## Official Feed Locations
