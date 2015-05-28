@@ -52,25 +52,31 @@ func TestAlytfeed(t *testing.T) {
 		}
 
 		// All enclosure links are HTTP (as opposed to HTTPS), pointing to an MP3 file.
-                // MP3 format check is brittle if we ever do an OGG feed or video feed.
-                // Assume only one enclosure element per item-node and hard-code 0th element.
+		// MP3 format check is brittle if we ever do an OGG feed or video feed.
+		// Assume only one enclosure element per item-node and hard-code 0th element.
 		var validUrl = regexp.MustCompile(`^http://*`)
 		matchedHttp := validUrl.FindString(item.EnclosureList[0].Url)
 		if matchedHttp == "" {
-                    t.Errorf("Bad podcaster/human, enclosure URL's must use http instead of https: %q", item.EnclosureList[0].Url)
+			t.Errorf("Bad podcaster/human, enclosure URL's must use http instead of https: %q", item.EnclosureList[0].Url)
 		}
 
 		// All enclosure links point to an MP3 file (MP3 format check is brittle if we ever do an OGG feed or video feed).
-                // Tried to combine this with HTTP check, but my regex skills were not up to task.
-                // Assume only one enclosure element per item-node and hard-code 0th element.
+		// Tried to combine this with HTTP check, but my regex skills were not up to task.
+		// Assume only one enclosure element per item-node and hard-code 0th element.
 		var validUrlMp3 = regexp.MustCompile(`mp3$`)
 		matchedMp3 := validUrlMp3.FindString(item.EnclosureList[0].Url)
 		if matchedMp3 == "" {
-                    t.Errorf("Bad podcaster/human, enclosure URL's must point to an MP3: %q", item.EnclosureList[0].Url)
+			t.Errorf("Bad podcaster/human, enclosure URL's must point to an MP3: %q", item.EnclosureList[0].Url)
 		}
 
 		// Make sure all enclosure links are valid URL's...I'm declaring this out of scope for now
-                // (if it starts with 'http://' and ends with '.mp3', call it good).
-	}
+		// (if it starts with 'http://' and ends with '.mp3', call it good).
 
+		// Check for iframe included in <description> tag
+		var iframe = regexp.MustCompile(`iframe`)
+		matchedIframe := iframe.MatchString(item.Description)
+		if matchedIframe == true {
+			t.Errorf("Bad human, naive copy/paste from show notes blog post is discouraged, please remove iframe from description tag: %q", item.Description)
+		}
+	}
 }
