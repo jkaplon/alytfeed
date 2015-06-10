@@ -19,6 +19,87 @@
             <itunes:category text="Philosophy" />
         </itunes:category>
         <item>
+            <title>At Least You're Trying, 54: From Future, Through Present, To Past</title>
+            <link>http://gtradio.net/alyt/54</link>
+            <guid>http://gtradio.net/alyt/54</guid>
+            <pubDate>Wed, 10 Jun 2015 19:53:00 GMT</pubDate>
+            <itunes:order>54</itunes:order>
+            <author>Jody and Matt</author>
+            <description>
+                <![CDATA[
+                   <h2>Summary:</h2>
+
+                   <p>Yes, it's been a few weeks, so the boys have some catching up to do. We get a baby update, some literary recommendations, and some insight into how Matt will be spending his time and money this summer.</p>
+
+                   <h3>Follow Up</h3>
+
+                   <ul>
+                   <li>Title suggestions for Matt's blog pouring in
+                   <ul><li>Blog will also review food trucks encountered in Matt's wanderings (he's invented a separate  evaluation scheme just for the trucks)</li>
+                   <li>Matt's notebook went down to Miami Memorial Day weekend to try 4 restaurants</li></ul></li>
+                   <li>Recent comments on open science and reproducibility
+                   <ul><li><a href="http://www.onthemedia.org/story/getting-clinical-trials-record/">On The Media interview with Ben Goldacre</a> was good. Best pull-quote: “This issue has been protected by a force-field of its own tediousness.”</li>
+                   <li>A MUST READ for sci-enthusiasts and skeptics everywhere: http://io9.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800</li>
+                   <li>Good article on “p-Hacking” and other problems with the way scientists use  statistics: http://www.nature.com/news/scientific-method-statistical-errors-1.14700
+                   <img src="http://i.kinja-img.com/gawker-media/image/upload/s--nHJvVoLp--/c_fit,fl_progressive,q_80,w_320/1281238327462274082.jpg" alt="creepy chocolate imagery" title="" /></li>
+                   <li>Matt's takeaway from both items above: There are systemic problems that are clouding our thinking and restricting the advancement of science (especially in areas where the data are noisiest; e.g. the Health Sciences and pop-psych), but thought-leaders across disciplines are waking up to this fact. Awareness in growing, and Bayes will have his day soon.</li></ul></li>
+                   <li><a href="http://pintofscience.us/events/tampa/">Pint of Science</a> was good for Matt, Jody, and respective partners
+                       - Matt saw: Nuclear Medicine, epigenetics, immunotherapy for cancer, Haptics/design
+                       <ul><li>Jody attended bacterial resistance, archeological 3D imaging, and waste water recycling</li></ul></li>
+                       </ul>
+
+                       <h3>Fake Follow Up</h3>
+
+                       <ul>
+                       <li><a href="http://www.theverge.com/2015/5/20/8629335/spotify-adds-podcasts-videos">Podcasts are now on Spotify</a>
+                       <ul><li>Jody wants to use this as a jump-off for some Solutioneering to re-invent podcasting, but he’s going to restrain himself since it’s not that kind of episode</li></ul></li>
+                       <li>More podcasting news...Merlin and Siracusa now have a podcast together
+                       <ul><li>Jody is excited; 1st episode in his queue now</li>
+                       <li><a href="http://www.relay.fm/rd">Reconcilable Differences</a></li></ul></li>
+                       <li>Testing, the AP Exam and <a href="https://www.youtube.com/watch?v=J6lyURyVz7k">John Oliver</a></li>
+                       <li>Matt learned something new about Audacity (also related to testing)
+                       <ul><li>Turns out, software used to produce this show can also rescue AP exams</li></ul></li>
+                       <li>Matt researches his next phone/carrier
+                       <ul><li>Google Project Fi vs Cricket or StraightTalk. Pros &amp; Cons, etc.</li>
+                       <li>Jody recommends <a href="http://www.ting.com">Ting</a> (at least they advertise loyally on other podcasts)</li></ul></li>
+                       <li>Matt’s Partner made a Square Space site for her business!
+                       <ul><li>It’s been fun watching her figure stuff out for herself, and become her own web designer</li>
+                       <li>See it at <a href="www.familycenteroftempleterrace.com">FamilyCenterofTempleTerrace.com</a> </li></ul></li>
+                       <li><p>The Goodtimes group is gearing up for another <a href="http://www.redbull.com/us/en/events/1331710063319/red-bull-soapbox-atlanta-2015">Red Bull Soapbox</a> event.</p>
+
+                       <ul><li>Ideas so far: Lebowski theme (various vehicles), Indiana Jones (Motorcycle &amp; sidecar), slinky (possibly with articulated center and double-ended steering)
+                       <img src="https://c4.staticflickr.com/4/3060/2977734620_c10493ed49_n.jpg" alt="Red Bull Soapbox racer" title="" /></li></ul></li>
+                       <li><p>Summer Matt and Summer lists:</p>
+
+                       <ul><li>Watch all the sports (TDF, WWC, Wimbleton, etc.)</li>
+                       <li>Learn some R (the open-source statistical programming language)
+                       <ul><li>Jody can help with this one:
+                       <ul><li><a href="http://www.r-podcast.org/">The R Podcast</a>, now defunct and with some rough audio, but it's worthwhile
+                       <ul><li><a href="http://www.rstudio.com/">RStudio</a>, cross platform development environment for R</li>
+                       <li><a href="http://had.co.nz/">Hadley Wickam and his fantastic R packages</a></li></ul></li></ul></li></ul></li></ul></li>
+                       <li>Shed project 2.0</li>
+                       <li>Office project 2.0</li>
+                       <li>Refinish floors</li>
+                       <li>Ship the Foodie Blog</li>
+                       <li>Run 25 Times (80 miles)</li>
+                       <li>Help my Dad with his move/new house</li>
+                       <li>Sailing Adventures</li>
+                       </ul>
+
+                       <h3>TOPIC: ???</h3>
+
+                       <p>We can't be bothered with a real topic when there's all this follow up.</p>
+                ]]>
+            </description>
+            <enclosure url="http://archive.org/download/ALYT54/ALYT-54.mp3" length="76887618" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>1:46:47</itunes:duration>
+            <itunes:subtitle>Shipping bits.</itunes:subtitle>
+            <itunes:summary>Yes, it's been a few weeks, so the boys have some catching up to do. We get a baby update, some literary recommendations, and some insight into how Matt will be spending his time and money this summer.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 53: No Bears In 2015</title>
             <link>http://gtradio.net/alyt/53</link>
             <guid>http://gtradio.net/alyt/53</guid>
