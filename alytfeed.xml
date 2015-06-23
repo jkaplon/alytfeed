@@ -19,6 +19,49 @@
             <itunes:category text="Philosophy" />
         </itunes:category>
         <item>
+            <title>At Least You're Trying, 55: This is a Family Show</title>
+            <link>http://gtradio.net/alyt/55</link>
+            <guid>http://gtradio.net/alyt/55</guid>
+            <pubDate>Tue, 22 Jun 2015 19:54:00 GMT</pubDate>
+            <itunes:order>55</itunes:order>
+            <author>Jody and Matt</author>
+            <description>
+                <![CDATA[
+                    <h2>Summary:</h2>
+
+                    <p>Quick turnaround, right? We're back with a Bonnaroo report, some real follow-up about tech choices, and a eulogy for TCL's truck. It's actually kind of a sad show, but Matt saves it at the end.</p>
+
+                    <p><iframe src="https://archive.org/embed/ALYT55" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+                    <a href="https://archive.org/download/ALYT55/ALYT-55.mp3">MP3 Download</a></p>
+
+                    <h3>Follow-up:</h3>
+
+                    <ul>
+                    <li>Matt calls Big Red and gets a discount just for asking</li>
+                    <li><p>Bonnaroo Report!</p>
+
+                    <ul><li><p>Summer Matt in his natural environment: <img src="https://lh6.googleusercontent.com/-kVs9En_m9Q8/VYmlgkSXisI/AAAAAAAAAtU/KDqRIed9S-Q/w721-h541-no/15%2B-%2B1" alt="Summer Matt" title="" /></p></li>
+                    <li><p>Alabama Shakes: Matt's pick for performance of the festival. Check her out here:
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/uioSERrTR8w" frameborder="0" allowfullscreen></iframe></p></li></ul></li>
+                    <li><p>Jody needs closure on Matt’s food blog...it’s an open-loop that’s been eating at his soul. The only solution is for Jody to finalize the internet plumbing and Matt to ship the first post...FIRST!</p>
+
+                    <ul><li>The title is chosen, and the URL procured: <a href="http://greenbookredbook.com">greenbookredbook.com</a></li></ul></li>
+                    <li><p>The dog is back (briefly), and it makes babies seem that much weirder (to Jody)</p></li>
+                    <li>Life-change-let-down for Mr. Pieces
+                    <ul><li>He’s didn’t get the out of state job...ALYT sympathizes</li></ul></li>
+                    <li>ALYT eulogizes TCL’s truck: <img src="https://lh5.googleusercontent.com/-E3Q30F8rBbI/VYmm4LBaYOI/AAAAAAAAAt4/sPW0N9WBdQo/s541-no/15%2B-%2B1" alt="RIP, Truck" title="" /></li>
+                    </ul>
+                ]]>
+            </description>
+            <enclosure url="http://archive.org/download/ALYT55/ALYT-55.mp3" length="46238762" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>1:04:13</itunes:duration>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Quick turnaround, right? We're back with a Bonnaroo report, some real follow-up about tech choices, and a eulogy for TCL's truck. It's actually kind of a sad show, but Matt saves it at the end.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 54: From Future, Through Present, To Past</title>
             <link>http://gtradio.net/alyt/54</link>
             <guid>http://gtradio.net/alyt/54</guid>
