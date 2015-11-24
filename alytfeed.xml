@@ -19,6 +19,50 @@
             <itunes:category text="Philosophy" />
         </itunes:category>
         <item>
+            <title>At Least You're Trying, 57.5: A Stack of URL's</title>
+            <link>http://gtradio.net/alyt/57point5</link>
+            <guid>http://gtradio.net/alyt/57point5</guid>
+            <pubDate>Tue, 24 Nov 2015 00:05:42 GMT</pubDate>
+            <itunes:order>58</itunes:order>
+            <author>Jody and Matt</author>
+            <description>
+                <![CDATA[
+                <h2>Summary:</h2>
+
+                <p>Testing...testing...does this thing still work? The boys recorded a little preview/bonus episode to tease the triumphant return of ALYT.</p>
+
+                <h3>Planning session</h3>
+
+                <ul>
+                <li>10 installs of ALYT Android app, double digits!</li>
+                <li>Matt's now teaching adults...and they don't ask good questions</li>
+                <li>Topic suggestion for episode 58, “Jody’s Pitch Deck”</li>
+                </ul>
+
+                <h3>Not discussed</h3>
+
+                <ul>
+                <li>Jody feeling the itch to record (finally)</li>
+                <li>Matt manages to get the phone of his dreams</li>
+                <li>Having kids as time travel</li>
+                <li>babies == tiny zombies</li>
+                <li>Neil Degrsse Tyson inverviews Edward Snowden
+                <ul><li><a href="http://www.startalkradio.net/show/a-conversation-with-edward-snowden-part-1/">Part 1</a></li>
+                <li><a href="http://www.startalkradio.net/show/a-conversation-with-edward-snowden-part-2/">Part 2</a></li>
+                <li>Jody's not into the Star Talk show format, but this interview was good audio</li></ul></li>
+                <li>Pluto close-ups, Mars-water, are Matt's students excited?</li>
+                </ul>
+                ]]>
+            </description>
+            <enclosure url="http://archive.org/download/ALYT-57.5/ALYT-57-Bonus.mp3" length="18534334" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>25:44</itunes:duration>
+            <itunes:subtitle>Pop the stack.</itunes:subtitle>
+            <itunes:summary>Testing...testing...does this thing still work? The boys recorded a little preview/bonus episode to tease the triumphant return of ALYT.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 57: Don't Fear the Reaper</title>
             <link>http://gtradio.net/alyt/57</link>
             <guid>http://gtradio.net/alyt/57</guid>
