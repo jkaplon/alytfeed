@@ -19,6 +19,120 @@
             <itunes:category text="Philosophy" />
         </itunes:category>
         <item>
+            <title>At Least You're Trying, 58: One Switch to Rule Them All</title>
+            <link>http://gtradio.net/alyt/58</link>
+            <guid>http://gtradio.net/alyt/58</guid>
+            <pubDate>Sun, 06 Dec 2015 17:06:00 GMT</pubDate>
+            <itunes:order>59</itunes:order>
+            <author>Jody and Matt</author>
+            <description>
+                <![CDATA[
+                    <h2>Summary:</h2>
+
+                    <p>They're back for real this time, with a topic, no less! This week Jody pitches Matt his percolating creative ideas for some feedback (and minimal snark).</p>
+
+                    <h3>(Real) Follow Up</h3>
+
+                    <ul>
+                    <li>Matt and his partner headed back to NOLA tomorrow… And there was just a mass shooting (17 injured) in the 9th Ward
+                    <ul><li>More worryingly, Matt might be getting sick (early warning signs present now), which is never a good thing in NOLA</li>
+                    <li><a href="http://m.thisamericanlife.org/radio-archives/episode/565/lower-9-10">This American Life, 10 years after hurricane Katrina</a></li>
+                    <li><a href="http://toupsmeatery.com/">Toups' Meatery</a></li></ul></li>
+                    <li><a href="https://www.instagram.com/explore/tags/toothlesstiger/">#Toothless Tiger</a> is doing OK after her full mouth extraction- she can eat wet or hard food, amazingly</li>
+                    </ul>
+
+                    <h3>Jody’s Pitch Deck Intro</h3>
+
+                    <ul>
+                    <li><a href="http://www.wired.com/insights/2014/11/the-internet-of-things-bigger/">"Internet of Things"</a>, a tired buzz-term for Jody, but still fresh and completely acceptable to Matt</li>
+                    <li>Since hearing Jody's topic idea, Matt keeps thinking of more and more applications for the “Internet Open Sign” switch.</li>
+                    </ul>
+
+                    <h3>Diesel Generator Alert Monitor</h3>
+
+                    <ul>
+                    <li>best intro into the deck (despite limited user base of 1 guy/1 family-business)</li>
+                    <li>The Don has an acquaintance who sells diesel generator add-on modules that make the generators run more efficiently
+                    <ul><li>Jody is baffled by this, but it's a family business that's been running for a long time, so he assumes it must work</li>
+                    <li>Matt's skeptic alarms are sounding, but he accepts Jody's hand-waving</li></ul></li>
+                    <li>Currently the generator add-on module has an "everything is not OK" light</li>
+                    <li><strong>THE PITCH</strong>: connect the warning light to the internet so it can send an email or an SMS when something goes wrong</li>
+                    <li><a href="HTTPS://Particle.Kaplon.us">Proof of concept alert monitor</a></li>
+                    </ul>
+
+                    <h3>xIsOpen</h3>
+
+                    <ul>
+                    <li>Started as The Don's idea, specifically for tennis courts</li>
+                    <li><strong>THE PITCH</strong>: the local Recreation Center has soft-surface tennis courts that have to be closed down if they're too wet. Wouldn't you like to be able to know if the courts are open before you leave the house?
+                    <ul><li>Rec Center employees don't want to have to field continuous phone calls, and they don't like telling people who have just driven across town that the courts are closed</li>
+                    <li>They would much rather have a nice, friendly switch to throw that can update a web page in real-time for everyone to see</li></ul></li>
+                    <li>The Don hacked on the hardware previously, and already had a domain name, <a href="https://tenniscourtsopen.com">TennisCourtsOpen.com</a></li>
+                    <li>The Don went the extra mile and made a fancy case for the hardware (yes, the tennis ball glows green for "open" or red for "closed)
+                    <img src="https://lh3.googleusercontent.com/Lz3B8X8ACk08ViLIE8qYpR_l7fKlAXgRqiI5K6EsQdekURunpEs0s6snWD5EK5BxfpIeSMfUxDkHAj7oSzu3obnoJQ0cegwka-mWrejzr2HvkR1ZmBR3GWCdhP6bMuk8yMCsqY7oahsbY5FqcF7yo-lC2_XYsqCU-oWbhZ1FejF64HmweEp7LtStnIv7J2LjCe_PQNwcd4qN-k73xoP-Bufnb52b6YKEo2itu_ic1GdMKp4Jshf_3tAGPaMTWLMWLqgmVIi5ZvXsAuJYwXDdAkr3TZK0bXYBg16JwqXjWdsZLJukf4W0kSXjLRHUeeE5NSq1HO-mZHipLN6DMUIHmpM89epghmei9h_xL6ci8zHI6ZHGcRyXnDr76hIOn_RfNTkD36fWrvMsQM4TNfpF-95mZisZGlnhGBHdgiHA7TBsCzOJZUuoAgQ-bTTs548Wsb2lFqxCLl8wOQZWwfKpX_tEcP2S3CveZfGvhC4Ow56862NVqSXZ2W769sDyiZJpX0CknJNOhiwdRXvsfJ6zGMuHcYOADlIewZBacmpqpZBM=w205-h250-no" alt="Picture of The Don's finished product for tenniscourtsopen.com" title="" /></li>
+                    <li>Jody thinks this idea should also be used for the pool at the Rec Center which suffers from similar weather-related closures</li>
+                    <li>In fact, Jody also thinks this will work well for any restaurant that can't quite keep consistent hours
+                    <ul><li><a href="http://greenbookredbook.com">Matt The Foodie</a> probably knows a few places in this category</li></ul></li>
+                    </ul>
+
+                    <h3>Android fancy text entry app</h3>
+
+                    <ul>
+                    <li><strong>THE ITCH</strong>: Jody is continually frustrated with Evernote and other text capture apps on Android and on the web</li>
+                    <li><strong>THE PITCH</strong>: reduce friction for text capture on Android, start typing and then decide what to do with it
+                    <ul><li>Similar to the <a href="http://agiletortoise.com/drafts/">Drafts app on iOS</a></li></ul></li>
+                    <li>Jody made a tiny bit of progress here with what could be the web-based portion of this app
+                    <ul><li><a href="http://kaplon.us/codemirror/editor.html">Jody's "minimum viable" text box on web page demo</a>...emphasis on minimum (NOTE to listeners who actually follow that link, if you're baffled by a non-cooperative, fat cursor, type 'i' and things will probably work more like you expect)</li>
+                    <li>Jody tries to blow Matt's mind with the included vim-style modal editing.</li>
+                    <li><a href="http://blog.kaplon.us/vim-and-vigor/">Jody has written about his efforts to learn this weird trick to editing text</a> (hint, vi has a steep learning curve)
+                    <img src="http://mrozekma.com/editor-learning-curve.png" alt="Learning curve of vi/vim text editor" title="" /></li></ul></li>
+                    </ul>
+
+                    <h3>Podcast Hosting and Content Management System</h3>
+
+                    <ul>
+                    <li><strong>THE ITCH</strong>: Jody should have automated some processes for ALYT a long time ago, but instead he could leverage those efforts into an entire podcast platform!</li>
+                    <li><strong>THE PITCH</strong>: setting up an online presence for a podcast is complicated. This service would provide a website for blogging and show notes, hosting of audio files, and podcast feed (re-)generation.</li>
+                    <li>This kind of grandiose thinking from Jody can be non-productive, or procrastination in disguise</li>
+                    <li>Jody is waiting until Dan Benjamin releases his podcast content managent system, but he won't ship!
+                    <ul><li>Dan's system will be a for-pay service (probably), but Jody will still use it if it's good</li>
+                    <li>The 5by5 service from Dan will include lots of fancy analytics for advertisers (not an important feature for Jody or ALYT...yet)</li></ul></li>
+                    <li><a href="https://unicornfree.com/2015/what-does-30x500-even-mean">Amy Hoy’s 30x500 theory</a>. Jody’s math was way off on this, but it’s still a good guideline.</li>
+                    <li>No, this is not the same as podcasts on Spotify, or Google Music...the shows would still live on the open web.</li>
+                    </ul>
+
+                    <h3>Things Matt wants internet-ed</h3>
+
+                    <ul>
+                    <li>Some of this discussion was lost due to a smaller than expected SD card in the <a href="http://www.amazon.com/gp/product/B001QWBM62/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001QWBM62&amp;linkCode=as2&amp;tag=atleyoretrpo-20">Matt's Zoom audio recorder</a></li>
+                    <li>This was harder than Matt thought it would be, he's not sure if this is a failure of his imagination, or if he's just reasonably happy with the currently available information about his things.</li>
+                    <li>Matt wants his car to be able to communicate at a more granular level what’s wrong with it when the CEL comes on, and maybe to keep track of more maintenance data (but right now there's a lovely Moleskine notebook for that).
+                    <ul><li>Matt notes this is already already a reality for some newer cars</li></ul></li>
+                    <li>Matt doesn’t need to talk to his fridge or other appliances</li>
+                    <li>Possibly a security system. Matt and his partner have considered installing one.</li>
+                    <li>If Matt's HVAC was more than passably effective, he might want to internet with it, but as it is, there wouldn’t be much point</li>
+                    </ul>
+
+                    <h3>Summing up</h3>
+
+                    <ul>
+                    <li>It's much harder to scrape together contiguous time block for Jody to record ALYT, but he can consistently steal away to fix a small bug or make progress on these projects</li>
+                    <li>These projects have been a great balance of steady forward progress and technical challenges (which is very pleasing to Jody)</li>
+                    <li>Jody acquired many useful internet-plumbing skills while podcasting with Matt and they keep being useful on side-projects
+                    <ul><li>Jody's complained previously that his setup of the ALYT website was too well-planned and so he doesn't get to tinker with it.</li></ul></li>
+                    <li>Thanks to The Don for giving Jody something interesting to work on</li>
+                    </ul>
+                ]]>
+            </description>
+            <enclosure url="http://archive.org/download/ALYT-58/ALYT-58.mp3" length="59434575" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>01:22:32</itunes:duration>
+            <itunes:subtitle>Shuffle this deck.</itunes:subtitle>
+            <itunes:summary>They're back for real this time, with a topic, no less! This week Jody pitches Matt his percolating creative ideas for some feedback (and minimal snark).</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 57.5: A Stack of URL's</title>
             <link>http://gtradio.net/alyt/57point5</link>
             <guid>http://gtradio.net/alyt/57point5</guid>
