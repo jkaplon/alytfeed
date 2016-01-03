@@ -19,6 +19,73 @@
             <itunes:category text="Philosophy" />
         </itunes:category>
         <item>
+            <title>At Least You're Trying, 59: Fewer Hazy Mornings</title>
+            <link>http://gtradio.net/alyt/59</link>
+            <guid>http://gtradio.net/alyt/59</guid>
+            <pubDate>Sat, 02 Jan 2016 22:23:55 GMT</pubDate>
+            <itunes:order>60</itunes:order>
+            <author>Jody and Matt</author>
+            <description>
+                <![CDATA[
+                    <h2>Summary:</h2>
+
+                    <p>It's time to put 2015 to bed. In this year-end wrap up, the boys talk cryptography, space, restaurants, and internet open signs. Then they go on to give themselves grades in four subjects for 2015, and discuss how 2016 could be different.</p>
+
+                    <h3>Follow Up (Real):</h3>
+
+                    <ul>
+                    <li>Matt keeps thinking of more and more applications for the "Internet Open Sign" switch...but he's forgotten them all</li>
+                    <li>Jody talks with Ten Gallon Hat Man after episode-58, and decides to give Google Keep a try (it hasn't gone well).</li>
+                    </ul>
+
+                    <h3>Follow Up (Fake):</h3>
+
+                    <ul>
+                    <li><a href="http://seasaltstpete.com/">Sea Salt restaurant in St. Pete, FL</a>  Not recomended by <a href="http://greenbookredbook.com/">GBRB</a>, by the way</li>
+                    <li><a href="http://www.localegourmetmarket.com/farmtable-kitchen/">Farm Table Kitchen</a> for confusingly named, but tasty cocktails</li>
+                    <li><a href="http://greenbookredbook.com">GreenBookRedBook.com</a></li>
+                    <li><a href="http://www.dinetime.com/">Dine Time App</a>  Reserve your ramen or Cracker Barrel table now!</li>
+                    <li><a href="https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&amp;hl=en">Signal Android App</a>, want bullet-proof encryption for your mundane SMS chatter?</li>
+                    <li><a href="https://gimletmedia.com/episode/19-diversity-report/">Diversity report episode of Start Up podcast</a>
+                    <ul><li>Deft handling of race from white people.</li></ul></li>
+                    <li><a href="http://wisdomofchopra.com">WisdomOfChopra.com</a>
+                    <ul><li>Studies show:
+                    <ul><li>a) Chopra’s statements are indistinguishable from random nonsense</li>
+                    <li>b) some people find literally anything profound, whilst others are particularly seduced by the preudoprofiundity of new-agey BS</li>
+                    <li>c) those in that latter group are worse at reality. Also, what does a good skeptic do when science appears to confirm the narrative she prefers about the world?</li></ul></li></ul></li>
+                    </ul>
+
+                    <h3>Topics:</h3>
+
+                    <ul>
+                    <li><strong>Space!</strong> SpaceX just did a wildly impressive thing. Where does it fit in the history of space related achievement? Mr. Pieces believes it's more significant than the moon landing.
+                    <ul><li>Matt and Jody are sending this topic into the future where they can hopefully handle it properly
+                    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/spacexphotos/23815832891" title="ORBCOMM-2"><img src="https://farm1.staticflickr.com/749/23815832891_04cff2d938.jpg" width="500" height="333" alt="ORBCOMM-2"></a></li></ul></li>
+                    <li>Year in review: we give ourselves grades in various "subjects" of life. Eg: fitness, $-management, jobby-job performance, percolating creative tasks, husbandry, home maintenance, etc.
+                    <ul><li>Jobby-Job
+                    <ul><li>Matt = B-</li>
+                    <li>Jody = B-</li></ul></li>
+                    <li>Home Maintenance
+                    <ul><li>Matt = C-</li>
+                    <li>Jody = C-</li></ul></li>
+                    <li>Health and Fitness
+                    <ul><li>Matt = D (but he already did run #1 of 100 for 2016, so there's that)</li>
+                    <li>Jody = C+</li></ul></li>
+                    <li>Husbandry and Parenting
+                    <ul><li>Matt = C</li>
+                    <li>Jody = B+</li></ul></li></ul></li>
+                    </ul>
+                ]]>
+            </description>
+            <enclosure url="http://archive.org/download/ALYT-59/ALYT-59.mp3" length="58856216" type="audio/mpeg" />
+            <itunes:author>Jody and Matt</itunes:author>
+            <itunes:duration>01:21:44</itunes:duration>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>It's time to put 2015 to bed. In this year-end wrap up, the boys talk cryptography, space, restaurants, and internet open signs. Then they go on to give themselves grades in four subjects for 2015, and discuss how 2016 could be different.</itunes:summary>
+            <itunes:keywords>converstaion, advice, Matt, Jody</itunes:keywords>
+            <itunes:image href="http://kaplon.us/alyt.jpg" />
+        </item>
+        <item>
             <title>At Least You're Trying, 58: One Switch to Rule Them All</title>
             <link>http://gtradio.net/alyt/58</link>
             <guid>http://gtradio.net/alyt/58</guid>
