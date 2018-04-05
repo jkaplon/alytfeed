@@ -13,7 +13,7 @@ This was my first experience writing Go code, and I chose it due to its simple t
 Since I update the feed by hand, I don't want to be able to make a typo in the publication date and have my podcasting empire come crashing down (this has happened a few times).
 For now, the tests run on a local git commit hook. In the future, I hope to move their execution up to Github/TravisCI.
 
-Here are the contents of .git/hooks/pre-commit (don't forget to grant execution permissions!):
+Here are the contents of .git/hooks/pre-commit (don't forget to grant execution permission!):
 
     #!/bin/sh
 
