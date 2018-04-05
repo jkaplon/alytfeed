@@ -1,5 +1,4 @@
 # alytfeed
-========
 
 This repository contains the RSS feed for the [At Least You're Trying](http://gtradio.net/alyt) podcast.
 It may seem odd to have my podcast feed on github, but I assure you that it's a key piece of an overly-complex (but valuable) workflow.
