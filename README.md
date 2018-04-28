@@ -3,7 +3,7 @@
 This repository contains the RSS feed for the [At Least You're Trying](http://gtradio.net/alyt) podcast.
 It may seem odd to have my podcast feed on github, but I assure you that it's a key piece of an overly-complex (but valuable) workflow.
 I configured the github webook to notify the server hosting the official podcast feed every time I push a new episode into the feed.
-A Sinatra service running on my VPS over at [Linode](https://www.linode.com/?r=30991a143a3c99716fbc7fdcf81355338c4d2b64) takes care of the subsequent cloning and file system housekeeping.
+A [Node.js service](https://github.com/jkaplon/webhooks.kaplon.us) running on my VPS over at [Linode](https://www.linode.com/?r=30991a143a3c99716fbc7fdcf81355338c4d2b64) takes care of the subsequent cloning and file system housekeeping.
 This scheme also happens to provide a full version history and an offsite backup of this precious XML file.
 
 **But unit tests on a podcast feed?**
