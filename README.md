@@ -11,7 +11,7 @@ This scheme also happens to provide a full version history and an offsite backup
 Yes, this feed has some tests written in Go.
 This was my first experience writing Go code, and I chose it due to its simple testing story...`go test`.
 Since I update the feed by hand, I don't want to be able to make a typo in the publication date and have my podcasting empire come crashing down (this has happened a few times).
-For now, the tests run on a local git commit hook. In the future, I hope to move their execution up to Github/TravisCI.
+The tests can run on a local git commit hook (see `bash` belsow) or as a GitHub action (see `.github/workflows/go.yml`).
 
 Here are the contents of .git/hooks/pre-commit (don't forget to grant execution permission!):
 
