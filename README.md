@@ -29,11 +29,11 @@ Here are the contents of .git/hooks/pre-commit (don't forget to grant execution 
     exit $status
 
 ## Become a listener...Official Feed Locations:
-- RSS, www.kaplon.us/alytfeed
+- RSS, https://kaplon.us/alytfeed
 - iTunes, https://itunes.apple.com/us/podcast/at-least-youre-trying/id702153446?mt=2&ign-mpt=uo%3D4
 
 ## Interact
-- http://gtradio.net/alyt
+- https://gtradio.net/alyt
 - https://www.facebook.com/AtLeastYoureTrying
 - alyt.show@gmail.com
 
